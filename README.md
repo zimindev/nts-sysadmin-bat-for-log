@@ -181,7 +181,3 @@ ipconfig | find "IPv4" >> log.txt
 ping google.com >> log.txt
 echo ===== END ===== >> log.txt
 ```
-
-
-Кажи 😄
-```
